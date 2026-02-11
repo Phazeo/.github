@@ -1,9 +1,8 @@
 # Phazeo
 
-> Building and holding high-quality digital properties.
+> Internet properties, built for longevity.
 
 Phazeo is a digital asset studio focused on developing, maintaining, and curating modern internet infrastructure with long-term intent.
-
 We operate with a static-first mindset, performance discipline, and clean architectural standards.
 
 ---
@@ -11,17 +10,25 @@ We operate with a static-first mindset, performance discipline, and clean archit
 ## 🚀 Projects
 
 - **phazeo-site** - Official landing platform  
-- **phazeo-portfolio** - Portfolio and product showcase  
-
+- **phazeo-portfolio** - Portfolio and product showcase
+  
 More properties evolve over time.
 
 ---
+
+
+## 🌐 Selected Properties
+
+- Duefy
+- Pixsort
+- Phazeo
+
 
 ## 🧠 Focus
 
 - Strategic domain assets  
 - Long-term digital property ownership  
-- Modern web architecture (Astro, Tailwind, static-first)  
+- Modern web architecture
 - Minimal, maintainable systems  
 - Performance and clarity over complexity  
 

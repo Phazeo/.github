@@ -17,11 +17,10 @@ More properties evolve over time.
 ---
 
 
-## 🌐 Selected Properties
+## 🧪 Upcoming Products
 
-- Duefy
-- Pixsort
-- Phazeo
+- **Duefy** - Launching soon
+- **Pixsort** - Launching soon
 
 
 ## 🧠 Focus

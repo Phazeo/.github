@@ -48,5 +48,5 @@ No hype. No churn. Just structured growth.
 
 ---
 
-🌐 **Website:** https://phazeo.com  
+🌐 **Website:** https://www.phazeo.com  
 📬 **Contact:** hello@phazeo.com

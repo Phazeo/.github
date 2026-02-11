@@ -5,6 +5,8 @@
 Phazeo is a digital asset studio focused on developing, maintaining, and curating modern internet infrastructure with long-term intent.
 We operate with a static-first mindset, performance discipline, and clean architectural standards.
 
+Some domain assets are actively developed into products. Others are held strategically and may be transferred upon serious inquiry.
+
 ---
 
 ## 🚀 Projects

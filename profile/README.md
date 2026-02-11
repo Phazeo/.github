@@ -10,8 +10,8 @@ We operate with a static-first mindset, performance discipline, and clean archit
 
 ## 🚀 Projects
 
-- **phazeo-site** — Official landing platform  
-- **phazeo-portfolio** — Portfolio and product showcase  
+- **phazeo-site** - Official landing platform  
+- **phazeo-portfolio** - Portfolio and product showcase  
 
 More properties evolve over time.
 
